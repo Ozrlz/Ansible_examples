@@ -1,0 +1,10 @@
+[centos]
+centos1 ansible_user=packt
+centos2 ansible_user=packt
+centos3 ansible_user=packt
+
+[ubuntu]
+ubuntu1 ansible_user=packt
+ubuntu2 ansible_user=packt
+ubuntu3 ansible_user=packt
+
