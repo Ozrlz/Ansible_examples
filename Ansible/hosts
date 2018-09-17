@@ -1,5 +1,5 @@
 [centos]
-centos1 ansible_user=packt ansible_port=2222
+centos1:2222 ansible_user=packt
 centos2 ansible_user=packt
 centos3 ansible_user=packt
 
